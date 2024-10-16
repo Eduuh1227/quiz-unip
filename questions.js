@@ -36,4 +36,73 @@ export default [
       { option: "d) Acelerar para evitar pedestres atravessando fora da faixa", correct: false },
     ],
   },
+  {
+    question: "Qual é o comportamento mais seguro para um pedestre em uma via sem calçada?",
+    answers: [
+      { option: "a) Caminhar no mesmo sentido dos veículos", correct: false },
+      { option: "b) Caminhar no sentido oposto ao fluxo dos veículos", correct: true },
+      { option: "c) Caminhar no meio da via para ser mais visível", correct: false },
+      { option: "d) Caminhar o mais próximo possível do centro da estrada", correct: false },
+    ],
+  },
+  {
+    question: "Em cruzamentos sem semáforo, o que o pedestre deve fazer ao atravessar a rua?",
+    answers: [
+      { option: "a) Atravessar rapidamente, sem parar", correct: false },
+      { option: "b) Confiar que os motoristas sempre irão parar", correct: false },
+      { option: "c) Fazer contato visual com os motoristas e garantir que eles o vejam", correct: true },
+      { option: "d) Atravessar apenas se o fluxo de veículos estiver parado", correct: false },
+    ],
+  },
+  {
+    question: "Qual fator aumenta o risco de atropelamento em zonas escolares?",
+    answers: [
+      { option: "a) Redução de velocidade perto de escolas", correct: false },
+      { option: "b) Falta de atenção dos pedestres ao usar faixas de pedestres", correct: true },
+      { option: "c) Motoristas reduzirem a atenção devido à presença constante de crianças", correct: false },
+      { option: "d) Uso de sinalização inadequada nas zonas escolares", correct: false },
+    ],
+  },
+  {
+    question: "Qual é o impacto do uso de dispositivos móveis para pedestres ao atravessar a rua?",
+    answers: [
+      { option: "a) Aumenta a atenção do pedestre", correct: false },
+      { option: "b) Diminui o tempo de reação do pedestre", correct: true },
+      { option: "c) Não interfere na segurança do pedestre", correct: false },
+      { option: "d) Melhora a visibilidade do pedestre", correct: false },
+    ],
+  },
+  {
+    question: "Qual é a atitude recomendada para um pedestre quando o sinal de pedestres está piscando?",
+    answers: [
+      { option: "a) Correr para atravessar antes que o sinal feche", correct: false },
+      { option: "b) Parar e aguardar o próximo ciclo do sinal", correct: false },
+      { option: "c) Atravessar se já estiver na metade da faixa", correct: true },
+      { option: "d) Ignorar o sinal piscando e seguir normalmente", correct: false },
+    ],
+  },
+
+  {
+    question: "Qual a importância de faixas de pedestres elevadas em vias urbanas?",
+    answers: [
+      { option: "a) Tornam as ruas mais bonitas", correct: false },
+      { option: "b) Reduzem a velocidade dos veículos e protegem os pedestres", correct: true },
+      { option: "c) Aumentam o fluxo de veículos", correct: false },
+      { option: "d) Facilitam a travessia rápida dos veículos", correct: false },
+    ],
+  },
+
+  /*
+  {
+   question: "",
+   answers: [
+     { option: "", correct: false },
+      { option: "", correct: true },
+      { option: "", correct: false },
+      { option: "", correct: false },
+    ],
+  },
+  */
+  
 ];
+
